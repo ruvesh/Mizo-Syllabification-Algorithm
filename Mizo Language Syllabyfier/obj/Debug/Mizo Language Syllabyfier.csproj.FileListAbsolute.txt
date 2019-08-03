@@ -1,0 +1,10 @@
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\bin\Debug\Mizo Language Syllabyfier.exe.config
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\bin\Debug\Mizo Language Syllabyfier.exe
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\bin\Debug\Mizo Language Syllabyfier.pdb
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo Language Syllabyfier.csprojAssemblyReference.cache
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo_Language_Syllabyfier.Properties.Resources.resources
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo Language Syllabyfier.csproj.GenerateResource.cache
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo Language Syllabyfier.csproj.CoreCompileInputs.cache
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo Language Syllabyfier.exe
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo Language Syllabyfier.pdb
+P:\C#\Mizo Language Syllabyfier\Mizo Language Syllabyfier\obj\Debug\Mizo_Language_Syllabyfier.MizoSyllabifier.resources
